@@ -1,4 +1,4 @@
 # My-First
 This is my first project.
 <br>
-Author - Snehal Shendage
+Author - Snehal Shendage(kit)
